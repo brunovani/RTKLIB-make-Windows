@@ -1,0 +1,1 @@
+.\rnx2rtkp.exe -k .\minha_config.conf -x 5 C:\Users\bruno\Documents\rinex\PPTE00BRA_R_20260300000_01D_15S_MO.rnx C:\Users\bruno\Documents\rinex\SPDR00BRA_R_20260300000_01D_15S_MO.rnx  C:\Users\bruno\Documents\rinex\BRDC00WRD_R_20260300000_01D_MN.rnx -o C:\Users\bruno\Documents\rinex\result.pos
