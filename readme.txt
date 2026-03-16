@@ -1,3 +1,11 @@
+----------------------------------------------------------------------------
+#
+#  RTKLIB 2.4.3 - Make do rnx2rtkp no Windows
+#  Os arquivos de exemplo estao no diretorio app/consapp/rnx2rtkp/gcc
+#  Saudacoes! Prof. Bruno Vani
+#
+----------------------------------------------------------------------------
+
 #
 #  RTKLIB 2.4.3 Betas
 #
